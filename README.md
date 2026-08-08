@@ -36,3 +36,19 @@ starter.bat <filename>
     <td>NC150&lt;QUESTION_NUMBER&gt;_&lt;QUESTION_TITLE&gt;</td>
   </tr>
 </table>
+
+
+# Questions Solved
+
+<details>
+
+<summary>Neetcode 150</summary>
+
+<br>
+<br>
+
+1. [NC15001_ContainsDuplicate](./NC15001_ContainsDuplicate/) - [click here](https://neetcode.io/problems/duplicate-integer/question)
+
+2. [NC15002_ValidAnagram](./NC15002_ValidAnagram/) - [click here](https://neetcode.io/problems/is-anagram/question?list=neetcode150)
+
+</details>
