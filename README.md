@@ -47,8 +47,16 @@ starter.bat <filename>
 <br>
 <br>
 
-1. [NC15001_ContainsDuplicate](./NC15001_ContainsDuplicate/) - [click here](https://neetcode.io/problems/duplicate-integer/question)
+1. [NC150001_ContainsDuplicate](./NC150001_ContainsDuplicate/) - [click here](https://neetcode.io/problems/duplicate-integer/question)
 
-2. [NC15002_ValidAnagram](./NC15002_ValidAnagram/) - [click here](https://neetcode.io/problems/is-anagram/question?list=neetcode150)
+2. [NC150002_ValidAnagram](./NC150002_ValidAnagram/) - [click here](https://neetcode.io/problems/is-anagram/question?list=neetcode150)
+
+3. [NC150003_TwoSum](./NC150003_TwoSum/) - [click here](https://neetcode.io/problems/two-integer-sum)
+
+4. [NC150004_GroupAnagrams](./NC150004_GroupAnagrams/) - [click here](https://neetcode.io/problems/anagram-groups)
+
+5. [NC150005_TopKFrequentElements](./NC150005_TopKFrequentElements/) - [click here](https://neetcode.io/problems/top-k-elements-in-list)
+
+6. [NC150006_EncodeAndDecodeStrings](./NC150006_EncodeAndDecodeStrings/) - [click here](https://neetcode.io/problems/string-encode-and-decode)
 
 </details>
