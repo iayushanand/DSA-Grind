@@ -13,7 +13,7 @@ git clone https://github.com/iayushanand/DSA-Grind
 
 2. In order to solve a new question run
 ```bash
-starter.bat <filename>
+starter.bat <foldername>
 ```
 
 3. put your question in question.txt file
