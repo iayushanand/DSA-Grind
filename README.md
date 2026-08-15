@@ -59,4 +59,6 @@ starter.bat <filename>
 
 6. [NC150006_EncodeAndDecodeStrings](./NC150006_EncodeAndDecodeStrings/) - [click here](https://neetcode.io/problems/string-encode-and-decode)
 
+7. [NC150007_ProductsofArrayExceptSelf](./NC150007_ProductsofArrayExceptSelf/) - [click here](https://neetcode.io/problems/products-of-array-discluding-self)
+
 </details>
