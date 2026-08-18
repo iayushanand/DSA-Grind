@@ -61,4 +61,6 @@ starter.bat <filename>
 
 7. [NC150007_ProductsofArrayExceptSelf](./NC150007_ProductsofArrayExceptSelf/) - [click here](https://neetcode.io/problems/products-of-array-discluding-self)
 
+8. [NC150008_ValidSudoku](./NC150008_ValidSudoku) - [click here](https://neetcode.io/problems/valid-sudoku)
+
 </details>
